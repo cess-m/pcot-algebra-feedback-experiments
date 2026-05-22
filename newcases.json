@@ -1,0 +1,222 @@
+[
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE31-01",
+    "misconception_id": "MaE31",
+    "misconception": "when students incorrectly assume the commutative and associative properties apply to subtraction and division, akin to the \"Switch-Around Rule.\"",
+    "problem": "Write the \"Switch-Around Rule\" in your own words, and give examples to show if its always, sometimes, or rarely true.",
+    "student_attempt": "The switch-around rule says 2-1=1 and 1-2=1",
+    "student_logic": "The student applied the Switch-Around Rule to subtraction, assuming 2-1 and 1-2 give the same result.",
+    "diagnosis": "Overgeneralization of commutativity; student extended the Switch-Around Rule to subtraction, where it does not hold."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE31-02",
+    "misconception_id": "MaE31",
+    "misconception": "when students incorrectly assume the commutative and associative properties apply to subtraction and division, akin to the \"Switch-Around Rule.\"",
+    "problem": "Find the missing number:\n23 = 2 + 5 + __ + 4 + 6",
+    "student_attempt": "23 = 7 + __ + 10\n23 = 17 + __\nIt's the same if I do 23-17 or 23+17, it's the switch-around rule\n23 + 17 = 40",
+    "student_logic": "Student simplified both sides correctly but then applied the Switch-Around Rule to replace subtraction with addition, getting 40 instead of 6.",
+    "diagnosis": "Misapplication of commutativity to subtraction; student believed 23-17 equals 23+17 due to the Switch-Around Rule."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE33-01",
+    "misconception_id": "MaE33",
+    "misconception": "when students interchange minuend and subtrahend, reversing subtraction order, causing calculation errors, especially in equations or expressions",
+    "problem": "Solve for n:\n13n + 196 = 391",
+    "student_attempt": "13n + 196 = 391\n13n = 196 - 391\n13n = -195\nn = -15",
+    "student_logic": "Student moved 196 to the right but subtracted 391 - 196 in reverse order as 196 - 391.",
+    "diagnosis": "Reversed subtraction order; student wrote 196 - 391 instead of 391 - 196 when isolating the variable term."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE33-03",
+    "misconception_id": "MaE33",
+    "misconception": "when students interchange minuend and subtrahend, reversing subtraction order, causing calculation errors, especially in equations or expressions",
+    "problem": "Solve for n:\n16n - 215 = 265",
+    "student_attempt": "16n - 215 - 265 = 0\n16n = 265 - 215 = 50\nn = 50/16\nn = 3.125",
+    "student_logic": "Student moved 265 to the left as a subtraction, then computed 265 - 215 instead of adding 215 + 265.",
+    "diagnosis": "Reversed subtraction and incorrect transposition; student subtracted 265 from 215 instead of adding 215 to 265."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE33-04",
+    "misconception_id": "MaE33",
+    "misconception": "when students interchange minuend and subtrahend, reversing subtraction order, causing calculation errors, especially in equations or expressions",
+    "problem": "Solve for n:\n19n + 67 - 11n - 48 = 131",
+    "student_attempt": "19n + 67 - 11n - 48 = 131\n(11n - 19n) + (67 - 48) = 131\n8n - 21 = 131\n8n = 131 + 21\nn = 72",
+    "student_logic": "Student added 19n + 11n instead of subtracting, computed 67 - 48 = 21 incorrectly, and did not finish dividing to solve for n.",
+    "diagnosis": "Reversed variable subtraction (treated 11n - 19n as positive 8n) and did not complete the final division step."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE34-01",
+    "misconception_id": "MaE34",
+    "misconception": "when students incorrectly perform operations from left to right, neglecting the proper order of operations",
+    "problem": "Solve: 5 + 6 * 10 =",
+    "student_attempt": "5 + 6 * 10 = 11 * 10 = 110",
+    "student_logic": "Student added 5 + 6 first before multiplying by 10.",
+    "diagnosis": "Left-to-right evaluation; student ignored multiplication precedence over addition."
+  },
+  {
+    "group": "A",
+    "group_label": "Properties of number and operations",
+    "case_id": "MaE34-02",
+    "misconception_id": "MaE34",
+    "misconception": "when students incorrectly perform operations from left to right, neglecting the proper order of operations",
+    "problem": "Solve: 17 - 3 * 5 =",
+    "student_attempt": "17 - 3 * 5 = 14 * 5 = 70",
+    "student_logic": "Student subtracted 17 - 3 first before multiplying by 5.",
+    "diagnosis": "Left-to-right evaluation; student ignored multiplication precedence over subtraction."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE45-02",
+    "misconception_id": "MaE45",
+    "misconception": "when students mistakenly switch variables when transposing expressions involving subtraction",
+    "problem": "Write the expression that represents: \"Tachi is exactly one year older than Bill\" if T represented Tachi's age and B, Bill's age.",
+    "student_attempt": "B - T = 1",
+    "student_logic": "Student set up the equation with B minus T instead of T minus B.",
+    "diagnosis": "Variable transposition; student reversed the role of T and B in the subtraction expression."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE45-03",
+    "misconception_id": "MaE45",
+    "misconception": "when students mistakenly switch variables when transposing expressions involving subtraction",
+    "problem": "At a meeting there are five more women than men. There are 25 women. How many men are there?",
+    "student_attempt": "M = W + 5 = 25 + 5 = 30",
+    "student_logic": "Student added 5 to W instead of subtracting, treating men as more than women.",
+    "diagnosis": "Variable transposition; student added instead of subtracted, reversing the relationship between M and W."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE46-02",  
+    "misconception_id": "MaE46",
+    "misconception": "when students mistakenly perceive variables as labels or units, or associate their value with their alphabetical position",
+    "problem": "David is 10 cm taller than Con. Con is h cm tall. What can you write for David's height?",
+    "student_attempt": "Dh\nD stands for David's and h for height. Dh is David's height",
+    "student_logic": "Student concatenated D (abbreviation for David's) and h (for height) as a label rather than forming an algebraic expression.",
+    "diagnosis": "Variable-as-label misconception; student treated variables as abbreviations for words rather than as numerical quantities."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE46-04",
+    "misconception_id": "MaE46",
+    "misconception": "when students mistakenly perceive variables as labels or units, or associate their value with their alphabetical position",
+    "problem": "Sue weighs 1 kg less than Chris. Chris weighs y kg. What can you write for Sue's weight?",
+    "student_attempt": "x",
+    "student_logic": "Student wrote x because it comes before y in the alphabet, assuming the previous letter represents one less.",
+    "diagnosis": "Alphabetical value misconception; student associated the alphabetical position of letters with their numerical values."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE47-01",
+    "misconception_id": "MaE47",
+    "misconception": "when students incorrectly assume two variables in an equation must represent distinct numerical values, rather than potentially representing the same expression",
+    "problem": "h + m + n = h + p + n — always, sometimes, or never true?",
+    "student_attempt": "never true",
+    "student_logic": "Student assumed each variable must hold a unique and different value, so m and p can never be equal.",
+    "diagnosis": "Distinct-variable assumption; student believed different variable letters must represent different numbers."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE48-02",
+    "misconception_id": "MaE48",
+    "misconception": "when students struggle to grasp that variables can represent changing or varying quantities",
+    "problem": "What can you say about r if r = s + t and r + s + t = 30",
+    "student_attempt": "r < 30",
+    "student_logic": "Student only recognized r appears in an equation summing to 30, but did not substitute s + t = r to simplify.",
+    "diagnosis": "Static variable concept; student failed to use substitution because they could not see variables as interchangeable expressions."
+  },
+  {
+    "group": "B",
+    "group_label": "Variables, expressions, and operations",
+    "case_id": "MaE48-04",
+    "misconception_id": "MaE48",
+    "misconception": "when students struggle to grasp that variables can represent changing or varying quantities",
+    "problem": "What can you say about c if c + d = 10 and c is less than d?",
+    "student_attempt": "c = 4",
+    "student_logic": "Student assigned a single fixed value to c instead of recognizing it can take a range of values.",
+    "diagnosis": "Fixed-value variable misconception; student did not grasp that c can vary as long as the constraint c + d = 10 is satisfied."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE49-01",
+    "misconception_id": "MaE49",
+    "misconception": "when students find it challenging to comprehend the various meanings and applications of variables",
+    "problem": "The perimeter of a triangle is 44 cm. One side equals 14 cm, the second side is 2x cm long, and the third side equals x cm. Write an algebraic equation and work out x.",
+    "student_attempt": "44-14=30, 30/3=10, x=5 [the learners did not write any equation, but they used the \"backward operations\" to calculate the missing value]",
+    "student_logic": "Student logically reasoned through the numbers without writing an algebraic equation, using subtraction and division directly.",
+    "diagnosis": "Avoidance of algebraic notation; student solved numerically using inverse operations instead of forming and solving an equation."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE49-03",
+    "misconception_id": "MaE49",
+    "misconception": "when students find it challenging to comprehend the various meanings and applications of variables",
+    "problem": "x + 4 = 2",
+    "student_attempt": "x = 2\nVariables can't take negative numbers, so the answer has to be 2",
+    "student_logic": "Student avoided a negative solution by asserting variables cannot be negative.",
+    "diagnosis": "Restriction of variables to positive numbers; student does not accept negative values as valid solutions."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE50-01",
+    "misconception_id": "MaE50",
+    "misconception": "when students struggle with forming and understanding algebraic expressions and equations.",
+    "problem": "There were three kinds of candy bars sold. There were 22 more Snickers than Kit Kat bars and 32 more Reese's than Kit Kat bars. There were 306 candy bars sold in all. How many of each kind were sold?",
+    "student_attempt": "I'll use K for the Kit Kat bars, S for Snickers and P for Peanut Butter Cups.\nK=S+22\nP=K+32\nP+k+S=306\nIf I divide 306 by 3, I get 102, there would be 102 bars of each if all were equal. Since there are more Kit Kats, I'll guess K=80.\nP=80+32=112\n80=S+22\n80=58+22, S=58\nP=112, K=80 and S=58\nChecking: 112+80+58=250\nThen, there are more Kit Kats... My initial guess is wrong...",
+    "student_logic": "Student incorrectly wrote K = S + 22 (reversed) and used guess-and-check rather than solving algebraically.",
+    "diagnosis": "Equation syntax error and avoidance of algebraic method; student reversed the Snickers equation and relied on guessing."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE50-04",
+    "misconception_id": "MaE50",
+    "misconception": "when students struggle with forming and understanding algebraic expressions and equations.",
+    "problem": "The first row of a concert hall has 10 seats. Each row thereafter has 2 more seats than the row in front. Let R = row number, S = seats in that row. Give an equation for finding the number of seats.",
+    "student_attempt": "You could do guess and check. For example if the last row has 50 seats, you do 50 - 8 = 42 and figure out what times 2 equals 42. That would be 21. It's easy, so you don't need an equation.",
+    "student_logic": "Student avoided writing an equation entirely, solving through iteration and inverse operations instead.",
+    "diagnosis": "Avoidance of algebraic generalization; student preferred iterative/numerical reasoning over forming a general equation."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE53-02",
+    "misconception_id": "MaE53",
+    "misconception": "when students get confusion over operation symbols and their meanings in algebra",
+    "problem": "Kate sold 12 tickets. Her total sales t is given by 12c = t, where c is cost per ticket. What were her total sales if each ticket costs $5?",
+    "student_attempt": "All I have to do is replace the first letter with the first number:\n12(12) = 144",
+    "student_logic": "Student substituted 12 (the number of tickets) into c because it was the first number mentioned in the problem.",
+    "diagnosis": "Variable-meaning confusion; student did not understand that c represents cost per ticket, substituting the wrong value."
+  },
+  {
+    "group": "C",
+    "group_label": "Equations and inequalities",
+    "case_id": "MaE55-04",
+    "misconception_id": "MaE55",
+    "misconception": "when students struggle to recognize when to combine like terms, failing to add or subtract terms with the same variable",
+    "problem": "Simplify: 3(6x - 4) + 2(3x - 3)\nShow your work.",
+    "student_attempt": "3(6x - 4) + 2(3x - 3) = 18x - 12 + 6x - 6 = 18x - 18 + 6x",
+    "student_logic": "Student correctly distributed both terms but then combined -12 and -6 without combining 18x and 6x.",
+    "diagnosis": "Incomplete like-term combination; student combined the constant terms but failed to add the x-terms together."
+  }
+]

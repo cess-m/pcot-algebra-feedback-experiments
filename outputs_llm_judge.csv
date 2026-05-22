@@ -1,0 +1,161 @@
+group,group_label,case_id,misconception_id,model,prompt_type,llm_judge_model,diagnostic_accuracy,pedagogical_scaffolding,linguistic_naturalness,actionability
+A,Properties of number and operations,MaE31-01,MaE31,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,3,3,4,3
+A,Properties of number and operations,MaE31-01,MaE31,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE31-01,MaE31,gemini-2.5-flash,pcot,claude-sonnet-4-5,3,4,4,3
+A,Properties of number and operations,MaE31-01,MaE31,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,3,4,4,3
+A,Properties of number and operations,MaE31-02,MaE31,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE31-02,MaE31,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE31-02,MaE31,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE31-02,MaE31,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-01,MaE33,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-01,MaE33,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-01,MaE33,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-01,MaE33,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-03,MaE33,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-03,MaE33,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-03,MaE33,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-03,MaE33,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-04,MaE33,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-04,MaE33,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE33-04,MaE33,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE33-04,MaE33,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE34-01,MaE34,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,3,4,4
+A,Properties of number and operations,MaE34-01,MaE34,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE34-01,MaE34,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE34-01,MaE34,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,3,4,3
+A,Properties of number and operations,MaE34-02,MaE34,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,3,4,4
+A,Properties of number and operations,MaE34-02,MaE34,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+A,Properties of number and operations,MaE34-02,MaE34,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE34-02,MaE34,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,3,4,3
+B,"Variables, expressions, and operations",MaE45-02,MaE45,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE45-02,MaE45,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE45-02,MaE45,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE45-02,MaE45,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE45-03,MaE45,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE45-03,MaE45,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE45-03,MaE45,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE45-03,MaE45,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE46-02,MaE46,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,3,4,3
+B,"Variables, expressions, and operations",MaE46-02,MaE46,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE46-02,MaE46,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE46-02,MaE46,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,3,4,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE47-01,MaE47,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE47-01,MaE47,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,3,4,3
+B,"Variables, expressions, and operations",MaE47-01,MaE47,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE47-01,MaE47,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE48-02,MaE48,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,3,3,4,3
+B,"Variables, expressions, and operations",MaE48-02,MaE48,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,3,3,4,3
+B,"Variables, expressions, and operations",MaE48-02,MaE48,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE48-02,MaE48,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE48-04,MaE48,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,3,4,4,3
+B,"Variables, expressions, and operations",MaE48-04,MaE48,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+B,"Variables, expressions, and operations",MaE48-04,MaE48,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+B,"Variables, expressions, and operations",MaE48-04,MaE48,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE49-01,MaE49,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,3,4,4,3
+C,Equations and inequalities,MaE49-01,MaE49,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE49-01,MaE49,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE49-01,MaE49,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE49-03,MaE49,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE49-03,MaE49,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE49-03,MaE49,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE49-03,MaE49,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE50-01,MaE50,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE50-01,MaE50,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE50-01,MaE50,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE50-01,MaE50,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE50-04,MaE50,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE50-04,MaE50,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE50-04,MaE50,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE50-04,MaE50,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE53-02,MaE53,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE53-02,MaE53,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE53-02,MaE53,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE53-02,MaE53,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE55-04,MaE55,gemini-2.5-flash,zero_shot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE55-04,MaE55,gemini-2.5-flash,standard_cot,claude-sonnet-4-5,4,4,4,4
+C,Equations and inequalities,MaE55-04,MaE55,gemini-2.5-flash,pcot,claude-sonnet-4-5,4,4,4,3
+C,Equations and inequalities,MaE55-04,MaE55,gemini-2.5-flash,taglish_pcot,claude-sonnet-4-5,4,4,4,3
+A,Properties of number and operations,MaE31-01,MaE31,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE31-01,MaE31,llama3.1:latest,standard_cot,claude-sonnet-4-5,1,2,3,2
+A,Properties of number and operations,MaE31-01,MaE31,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE31-01,MaE31,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE31-02,MaE31,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+A,Properties of number and operations,MaE31-02,MaE31,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+A,Properties of number and operations,MaE31-02,MaE31,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE31-02,MaE31,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-01,MaE33,llama3.1:latest,zero_shot,claude-sonnet-4-5,1,1,3,1
+A,Properties of number and operations,MaE33-01,MaE33,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,3,3,4
+A,Properties of number and operations,MaE33-01,MaE33,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-01,MaE33,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-03,MaE33,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+A,Properties of number and operations,MaE33-03,MaE33,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,4,3,4
+A,Properties of number and operations,MaE33-03,MaE33,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-03,MaE33,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-04,MaE33,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+A,Properties of number and operations,MaE33-04,MaE33,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,4,3,4
+A,Properties of number and operations,MaE33-04,MaE33,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE33-04,MaE33,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE34-01,MaE34,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,4
+A,Properties of number and operations,MaE34-01,MaE34,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,4,3,4
+A,Properties of number and operations,MaE34-01,MaE34,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE34-01,MaE34,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE34-02,MaE34,llama3.1:latest,zero_shot,claude-sonnet-4-5,4,3,3,4
+A,Properties of number and operations,MaE34-02,MaE34,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,3,3,3
+A,Properties of number and operations,MaE34-02,MaE34,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+A,Properties of number and operations,MaE34-02,MaE34,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE45-02,MaE45,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE45-02,MaE45,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,3,3,3
+B,"Variables, expressions, and operations",MaE45-02,MaE45,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE45-02,MaE45,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE45-03,MaE45,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE45-03,MaE45,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE45-03,MaE45,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE45-03,MaE45,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE46-02,MaE46,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE46-02,MaE46,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE46-02,MaE46,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE46-02,MaE46,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE46-04,MaE46,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE46-04,MaE46,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE46-04,MaE46,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE47-01,MaE47,llama3.1:latest,zero_shot,claude-sonnet-4-5,1,2,3,2
+B,"Variables, expressions, and operations",MaE47-01,MaE47,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,3,3,3
+B,"Variables, expressions, and operations",MaE47-01,MaE47,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE47-01,MaE47,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE48-02,MaE48,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE48-02,MaE48,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,2
+B,"Variables, expressions, and operations",MaE48-02,MaE48,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE48-02,MaE48,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE48-04,MaE48,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE48-04,MaE48,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+B,"Variables, expressions, and operations",MaE48-04,MaE48,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+B,"Variables, expressions, and operations",MaE48-04,MaE48,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE49-01,MaE49,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,4,3,4
+C,Equations and inequalities,MaE49-01,MaE49,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,4,3,4
+C,Equations and inequalities,MaE49-01,MaE49,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE49-01,MaE49,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE49-03,MaE49,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,3,3,3
+C,Equations and inequalities,MaE49-03,MaE49,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,3,3,4
+C,Equations and inequalities,MaE49-03,MaE49,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE49-03,MaE49,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE50-01,MaE50,llama3.1:latest,zero_shot,claude-sonnet-4-5,2,3,3,3
+C,Equations and inequalities,MaE50-01,MaE50,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+C,Equations and inequalities,MaE50-01,MaE50,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE50-01,MaE50,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE50-04,MaE50,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+C,Equations and inequalities,MaE50-04,MaE50,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,4,3,3
+C,Equations and inequalities,MaE50-04,MaE50,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE50-04,MaE50,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE53-02,MaE53,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+C,Equations and inequalities,MaE53-02,MaE53,llama3.1:latest,standard_cot,claude-sonnet-4-5,3,3,3,3
+C,Equations and inequalities,MaE53-02,MaE53,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE53-02,MaE53,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE55-04,MaE55,llama3.1:latest,zero_shot,claude-sonnet-4-5,3,3,3,3
+C,Equations and inequalities,MaE55-04,MaE55,llama3.1:latest,standard_cot,claude-sonnet-4-5,4,4,3,4
+C,Equations and inequalities,MaE55-04,MaE55,llama3.1:latest,pcot,claude-sonnet-4-5,2,2,3,2
+C,Equations and inequalities,MaE55-04,MaE55,llama3.1:latest,taglish_pcot,claude-sonnet-4-5,2,2,3,2
